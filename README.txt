@@ -1,4 +1,5 @@
 A Matlab solver for nonconvex penalized SVMs.
+===
 
 If you use any part of the our code, please cite our paper:
 
